@@ -1,0 +1,7 @@
+home.html
+text2.txt
+*.css  
+*.js
+/innerfolder/
+.DS_Store
+unwanted.pyc
